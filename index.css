@@ -1,0 +1,100 @@
+body{
+    background-color: lightgrey;
+}
+.container.title{
+    background-color: rgb(15, 15, 180);
+    color:white;
+    height:100px;
+    width:500px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border-radius: 10px;;
+    text-align: center;
+    
+}
+a{
+    padding:10px;
+    color:rgb(247, 236, 236);
+    height:50px;
+    margin:auto;
+    
+
+}
+li{
+    text-decoration: none;
+}
+.ml-auto{
+    padding-top:0px;
+    margin-top:-20px;
+}
+.menu
+{
+  width: 5px;
+  height: 5px;
+  background-color: white;
+  margin: 1px;
+}
+.nav{
+    padding:10px;
+    margin:auto;
+}
+
+.jumbotron.row{
+    background-color: rgb(13, 13, 94);
+    border-radius:0;
+    margin-bottom: 0;
+    width:100%;
+    margin: auto 10px auto  auto;
+    
+    
+
+    
+}
+.jumbotron.container-fluid.b{
+    margin-top: -40px;
+    margin-bottom: 0;
+    border-radius: 0;
+    width:95%;
+    
+    
+    
+}
+h1{
+    color:white;
+    font-family:  sans-serif;
+}
+div.container.a
+{
+    background-color:rgb(15, 15, 180);
+    height: 100px;
+    width:30%;
+    margin:auto 10px auto auto;
+    
+
+    
+}
+
+.row{
+     width:50%;
+     padding-top: -30px;
+
+
+}
+.btn1{
+    margin:0;
+}
+.jumbotron.a{
+    background-color: white;
+}
+.follow{
+
+
+margin-left: 2.5%;
+margin-top: 7%;
+margin-bottom: 10px;
+    
+
+}
+.btn{
+    display:inline-flex;
+}
